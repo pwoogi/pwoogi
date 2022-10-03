@@ -24,4 +24,4 @@
 
 ## Projects that I contributed to
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ShanjinurIslam&repo=BUET-CSE-Moodle-Web-Scraping&show_owner=true)](https://github.com/ShanjinurIslam/BUET-CSE-Moodle-Web-Scraping) <br />
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pwoogi&repo=hanghae_8D_BE&show_owner=true)](https://github.com/pwoogi/hanghae_8D_BE) <br />
