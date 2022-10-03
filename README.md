@@ -3,9 +3,7 @@
 
 ## Languages
 
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
@@ -15,15 +13,11 @@
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
 ![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github) <br />
-![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql) <br />
-![Node](https://img.shields.io/badge/-Node-000000?style=flat&logo=node.js) <br />
-![Android](https://img.shields.io/badge/-Android-000000?style=flat&logo=android)
 ![IntellIJ](https://img.shields.io/badge/-IntellIJ%20IDEA-000000?style=flat&logo=intellij%20idea)
 
 ## Live Projects
 
-[![CPA](https://img.shields.io/badge/-CodeforceProfileAnalyzer-444444?style=flat&logo=codeforces)](https://tamimehsan.github.io/CPA)
+[![CPA](https://img.shields.io/badge/-CodeforceProfileAnalyzer-444444?style=flat&logo=codeforces)](https://github.com/pwoogi/hanghae_8D_BE)
 
 ## Github Overview
 
