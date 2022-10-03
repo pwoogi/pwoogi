@@ -1,4 +1,6 @@
 
+
+
 ## Languages
 
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
@@ -13,9 +15,8 @@
 ![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github) <br />
 ![IntellIJ](https://img.shields.io/badge/-IntellIJ%20IDEA-000000?style=flat&logo=intellij%20idea)
 
-## Live Projects
-
 [![CPA](https://img.shields.io/badge/-CodeforceProfileAnalyzer-444444?style=flat&logo=codeforces)](https://github.com/pwoogi/hanghae_8D_BE)
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpwoogi&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
 ## Github Overview
 
