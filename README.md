@@ -19,7 +19,7 @@
 
 ## Github Overview
 
-<img align="left" alt="pwoogi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pwoogi&show_icons=true" />    &nbsp;
+![Anurag's GitHub stats]<img align="left" alt="pwoogi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pwoogi&theme=chartreuse-dark&show_icons=true" />    &nbsp;
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pwoogi)
 
 ## Projects that I contributed to
