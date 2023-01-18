@@ -3,11 +3,19 @@ Hi, there 🐍
 
 ## Languages
 
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
+[![Pwoogi's GitHub stats](https://github-readme-stats.vercel.app/api?username=pwoogi)](https://github.com/pwoogi/github-readme-stats)
+
+![Pwoogi's GitHub stats](https://github-readme-stats.vercel.app/api?username=pwoogi&show_icons=true)
+
+![Pwoogi's GitHub stats](https://github-readme-stats.vercel.app/api?username=pwoogi&show_icons=true&theme=radical)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pwoogi&repo=github-readme-stats)](https://github.com/pwoogi/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pwoogi)](https://github.com/pwoogi/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pwoogi&layout=compact)](https://github.com/pwoogi/github-readme-stats)
+
+[![Pwoogi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pwoogi)](https://github.com/pwoogi/github-readme-stats)
 
 ## Tools:
 
